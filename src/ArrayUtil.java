@@ -14,6 +14,5 @@ public class ArrayUtil {
     }
     return set.toArray(new String[0]);
   }
-
 }
 
